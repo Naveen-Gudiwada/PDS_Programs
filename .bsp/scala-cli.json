@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\navee\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "d:\\Labs \u0026 Assignment Works\\PDS\\ScalaProgramming\\week 9\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "d:\\Labs \u0026 Assignment Works\\PDS\\ScalaProgramming\\week 9\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "d:\\Labs \u0026 Assignment Works\\PDS\\ScalaProgramming\\week 9\\.scala-build\\ide-envs.json",
+    "d:\\Labs \u0026 Assignment Works\\PDS\\ScalaProgramming\\week 9\\Program18_ArraysInScala.scala"
+  ],
+  "version": "1.16.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

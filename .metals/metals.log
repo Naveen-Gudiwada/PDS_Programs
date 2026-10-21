@@ -1,0 +1,99 @@
+2026.10.21 21:27:02 INFO  Started: Metals version 1.6.9 in folders 'D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9' for client Visual Studio Code 1.143.0.
+2026.10.21 21:27:02 INFO  Memory monitor started
+2026.10.21 21:27:03 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.21 21:27:03 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:27:04 INFO  Attempting to connect to the build server...
+2026.10.21 21:27:04 INFO  Running BSP server List(C:\Users\navee\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, d:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.scala-build\ide-options-v2.json, --json-launcher-options, d:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.scala-build\ide-launcher-options.json, --envs-file, d:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.scala-build\ide-envs.json, d:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala)
+2026.10.21 21:27:04 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.metals\bsp.trace.json or C:\Users\navee\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.21 21:27:07 INFO  BSP server: Starting compilation server
+2026.10.21 21:27:10 INFO  time: Connected to build server in 6.09s
+2026.10.21 21:27:10 INFO  Connected to Build server: scala-cli v1.16.0
+2026.10.21 21:27:10 INFO  Created report: Optional.empty
+2026.10.21 21:27:10 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.metals\.reports\bloop\2026-10-21\r_Empty build targets...._21-27-10-634.md")
+2026.10.21 21:27:10 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.metals\.reports\bloop\2026-10-21\r_Empty build targets...._21-27-10-634.md")
+2026.10.21 21:27:10 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.metals\.reports\bloop\2026-10-21\r_Empty build targets...._21-27-10-634.md")
+2026.10.21 21:27:10 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\.metals\.reports\bloop\2026-10-21\r_Empty build targets...._21-27-10-634.md")
+2026.10.21 21:27:10 INFO  time: Imported build in 0.35s
+2026.10.21 21:27:11 INFO  compiling week 9_41e103cfb2-6d2757ba9a (1 scala source)
+2026.10.21 21:27:13 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:27:14 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.21 21:27:23 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:27:28 INFO  time: indexed workspace in 17s
+2026.10.21 21:27:28 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala
+2026.10.21 21:27:28 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:27:28 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala
+2026.10.21 21:27:28 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:27:31 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:28:00 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:28:00 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:28:00 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:34 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program18_ArraysInScala.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:34 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:34 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:34 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:37 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:37 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:39 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:39 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:40 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala
+2026.10.21 21:37:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:44 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:37:44 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program19_ListsSetsTuples.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Oct 21, 2026 9:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+2026.10.21 21:43:36 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:36 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:37 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:37 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:38 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala
+2026.10.21 21:43:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:39 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala
+2026.10.21 21:43:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:39 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:38 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:39 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:43:55 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala
+2026.10.21 21:43:55 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program20_HashMapCollisions.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:41 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:41 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:41 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:42 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:42 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:43 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:43 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:43 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:43 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:44 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:43 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:44 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:44 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:45 WARN  no build target for: D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala
+2026.10.21 21:48:45 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:45 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:45 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:48:59 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:49:06 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:49:21 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:49:27 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:49:40 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:49:48 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:50:02 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:50:08 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.21 21:51:35 INFO  no build target found for D:\Labs & Assignment Works\PDS\ScalaProgramming\week 9\Program21_FunctionalCombinators.scala. Using presentation compiler with project's scala-library version: 3.3.8
